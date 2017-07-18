@@ -1,0 +1,11 @@
+{
+	"frameworks": {
+		"net46": {
+			"dependencies": {
+				"jayrock-json": "0.9.16530.1",
+				"Microsoft.WindowsAzure.ConfigurationManager": "3.2.3",
+				"WindowsAzure.Storage": "8.1.4"
+			}
+		}
+	}
+}
